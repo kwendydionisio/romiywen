@@ -1,2 +1,2 @@
-let saludo = "Hola archivo2";
+let despedida = "chau archivo2"
 console.log(saludo)
